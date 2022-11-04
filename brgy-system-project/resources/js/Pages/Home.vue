@@ -6,7 +6,7 @@
       </h2>
     </template> -->
       <h2 class="font-semibold text-3xl text-gray-600 leading-tight" style="margin-left: 70px; margin-top: 25px; margin-bottom: -30px;">
-        Guidelines:
+        Guidelines and Announcements:
       </h2>
     <div class="py-12">
       <div
